@@ -8,10 +8,10 @@
 
 ### In order to start the game, the user needs to provide starting command in the following form: start level level. In order to stop the game user needs to provide exit when prompt to provide the command.
 ### Program recognises 4 levels:
-#### user - user plays itself.
-#### easy - it is a computer using easy level of difficulty (computer makes random moves base on random numbers generator).
-#### medium - it is a computer using medium level of difficulty (computer analyses the current state of the board and base on that analyses it's next move in the following way: 1) if it can win in one move (if it has two in a row), it places a third to get three in a row and win. 2) if the opponent can win in one move, it plays the third itself to block the opponent to win. 3) otherwise, it makes a random move.).
-#### hard - it is a computer using hard level of difficulty (computer uses MinMax algorithm to choose optimal move against the opponent).
+#### 1) user - user plays itself.
+#### 2) easy - it is a computer using easy level of difficulty (computer makes random moves base on random numbers generator).
+#### 3) medium - it is a computer using medium level of difficulty (computer analyses the current state of the board and base on that analyses it's next move in the following way: 1) if it can win in one move (if it has two in a row), it places a third to get three in a row and win. 2) if the opponent can win in one move, it plays the third itself to block the opponent to win. 3) otherwise, it makes a random move.).
+#### 4) hard - it is a computer using hard level of difficulty (computer uses MinMax algorithm to choose optimal move against the opponent).
 
 ### Program enables to play game in the following combinations:
 

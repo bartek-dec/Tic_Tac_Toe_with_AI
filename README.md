@@ -15,16 +15,16 @@
 
 ### Program enables to play game in the following combinations:
 
-#### Example 1 (user against other user)
+#### 1) Example 1 (user against other user)
 #### Input command: start user user
 
-#### Example 2 (user against computer (easy, medium or hard))
+#### 2) Example 2 (user against computer (easy, medium or hard))
 #### Input command: start user medium
 
-#### Example 3 (computer (easy, medium or hard) against user)
+#### 3) Example 3 (computer (easy, medium or hard) against user)
 #### Input command: start easy user
 
-#### Example 4 (computer (easy, medium or hard) against computer (easy, medium or hard))
+#### 4) Example 4 (computer (easy, medium or hard) against computer (easy, medium or hard))
 #### Input command: start easy hard
 
 ### In order to stop the game:
